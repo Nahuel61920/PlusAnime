@@ -2,4 +2,4 @@
 
 ### Anime web site 👊
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
